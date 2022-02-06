@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Magic8Ballv2</string>
+    <string name="yes_answer">Yes</string>
+    <string name="no_answer">No</string>
+    <string name="maybe_answer">Maybe</string>
+    <string name="prolly_answer">Prolly</string>
+    <string name="ball_button">Click</string>
 </resources>
